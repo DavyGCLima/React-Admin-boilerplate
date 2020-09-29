@@ -1,0 +1,10 @@
+{
+  "short_name": "ADM Launch MVP",
+  "name": "Adminsitrative Panel MVP",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
